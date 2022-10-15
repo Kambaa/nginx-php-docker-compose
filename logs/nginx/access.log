@@ -1,0 +1,5 @@
+192.168.1.200 - - [15/Oct/2022:16:15:00 +0000] "GET / HTTP/1.1" 200 73509 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:105.0) Gecko/20100101 Firefox/105.0"
+192.168.1.200 - - [15/Oct/2022:16:15:00 +0000] "GET /favicon.ico HTTP/1.1" 404 146 "http://192.168.1.111:8081/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:105.0) Gecko/20100101 Firefox/105.0"
+192.168.1.200 - - [15/Oct/2022:16:16:57 +0000] "GET / HTTP/1.1" 200 73509 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:105.0) Gecko/20100101 Firefox/105.0"
+192.168.1.200 - - [15/Oct/2022:16:16:57 +0000] "GET / HTTP/1.1" 200 73840 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:105.0) Gecko/20100101 Firefox/105.0"
+192.168.1.200 - - [15/Oct/2022:16:16:57 +0000] "GET /favicon.ico HTTP/1.1" 404 146 "http://192.168.1.111:8081/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:105.0) Gecko/20100101 Firefox/105.0"
